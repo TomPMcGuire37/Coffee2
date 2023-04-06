@@ -1,259 +1,260 @@
-,Date,Brand,Roast,Blend,Iced,Grind_size,Method,Amount_coffee,Amount_water,Amount_ice,Bloom_time,Rating
-0,03/29/2022,deathwish,medium,run the day,yes,8,chemex,42,503,242.0,45,7.0
-1,03/31/2022,Deathwish,Medium,Run the Day,No,9,Chemex,33,507,,45,6.5
-2,04/06/22,Deathwish,Medium,Run the Day,No,9,Chemex,31,506,,45,7.0
-3,04/08/2022,Deathwish,Medium,Run the Day,Yes,10,Chemex,50,630,222.0,45,7.5
-4,04/09/2022,Deathwish,Medium,Run the Day,Yes,10,Chemex,51,602,202.0,45,7.5
-5,04/11/22,Deathwish,Medium,Run the Day,Yes,10,Chemex,46,608,255.0,45,8.0
-6,04/12/22,Deathwish,Medium,Run the Day,No,3,Aeropress (Swirl),12,208,,0,8.0
-7,04/12/2022,Deathwish,Medium,Run the Day,No,4,Aeropres,11,202,,0,7.5
-8,04/13/2022,Broad Porch,Dark,Southern Split,No,4,Aeropress (Swirl),12,208,,0,7.0
-9,04/13/2022,Broad Porch,Dark,Southern Split,No,4,Aeropress (Swirl),13,210,,0,6.5
-10,04/14/22,Broad Porch,Dark,Southern Split,No,11,Chemex,30,510,,45,6.0
-11,04/15/2022,Broad Porch,Dark,Southern Split,Yes,10,Chemex,41,657,210.0,45,7.0
-12,04/17/2022,Broad Porch,Dark,Southern Split,Yes,10,Chemex,41,614,212.0,45,6.0
-13,04/19/2022,Broad Porch,Dark,Southern Split,No,12,Cheme,31,499,,45,6.0
-14,04/20/2022,Broad Porch,Dark,Southern Split,Yes,10,Chemex,42,578,227.0,45,7.0
-15,04/22/2022,Broad Porch,Dark,Southern Split,Yes,9,Chemex,40,564,218.0,45,6.5
-16,04/21/2022,Broad Porch,Dark,Southern Split,Yes,9,Chemex,42,570,220.0,45,6.5
-17,04/25/2022,Broad Porch,Dark,Southern Split,Yes,4,Aeropress (Swirl),22,205,,0,8.0
-18,04/26/2022,Broad Porch,Dark,Southern Split,Yes,4,Aeropress (Swirl),22,202,,0,8.0
-19,04/27/2022,Bason,Lite Medium,Kona,Yes,10,Chemex,40,560,198.0,45,9.0
-20,04/28/2022,Broad Porch,Medium,Costa Rica,Yes,4,Aeropress (Swirl),22,220,,0,7.25
-21,04/30/2022,Broad Porch,Medium,Costa Rica,Yes,4,Aeropress (Swirl),22,206,,0,7.5
-22,05/02/2022,Broad Porch,Medium,Costa Rica,Yes,4,Aeropress (Swirl),22,202,,0,7.5
-23,05/04/2022,Bason,Lite Medium,Kona,Yes,10,Chemex,35,599,247.0,45,8.5
-24,05/05/2022,Broad Porch,Medium,Costa Rica,Yes,4,Aeropress (Swirl),22,212,,0,7.5
-25,05/06/2022,Bason,Lite Medium,Kona,Yes,10,Chemex,38,598,231.0,45,7.5
-26,05/11/2022,Bason,Lite Medium,KONA,Yes,9,Chemex,36,550,200.0,45,8.0
-27,05/11/2022,Broad Porch,Medium,Costa Rica,Yes,10,Chemex,30,209,,45,7.0
-28,05/10/2022,Broad Porch,Medium,Costa Rica,Yes,5,Aeropress,22,209,,0,7.0
-29,05/09/2022,Broad Porch,Medium,Costa Rica,Yes,5,Aeropress,23,214,,0,7.0
-30,05/12/2022,Broad Porch,Medium,Costa Rica,Yes,5,Aeropres,20,208,,0,7.5
-31,05/12/2022,Broad Porch,Medium,Costa Rica,Yes,5,Aeropress,21,209,,0,7.5
-32,05/18/2022,Bason,Lite Medium,Kona,yes,9,Chemex,33,482,191.0,45,8.25
-33,05/15/2022,Broad Porch,Medium,Costa Rica,Yes,5,Aeropress,22,205,,0,7.5
-34,05/16/2022,Broad Porch,Medium,Costa Rica,Yes,5,Aeropress,23,207,,0,7.75
-35,05/17/2022,Broad Porch,Medium,Costa Rica,Yes,5,Aeropress,23,201,,0,7.75
-36,05/13/2022,Bason,Lite Medium,Kona,yes,9,Chemex,37,550,200.0,45,7.75
-37,05/19/2022,Broad Porch,Medium,Costa Rica,Yes,5,Aeropress,22,205,,0,7.75
-38,05/20/2022,Black River Roasters,Dark,Sumatra,Yes,5,Aeropress,24,203,,0,8.0
-39,05/23/2022,Black River Roasters,Dark,Sumatra,Yes,9,Chemex,34,480,189.0,45,8.0
-40,05/22/2022,Black River Roasters,Dark,Sumatra,Yes,9,Chemex,32,480,191.0,45,7.5
-41,05/25/2022,Black River Roasters,Dark,Sumatra,yes,5,Aeropress,22,203,,0,7.5
-42,05/26/2022,Black River Roasters,Dark,Sumatra,Yes,11,Chemex,34,482,190.0,45,5.5
-43,05/27/2022,Black River Roasters,Dark,Sumatra,Yes,10,Chemex,35,456,222.0,45,7.5
-44,05/28/2022,Red Rooster,Dark,4&20 French Roast,Yes,9,Chemex,35,405,105.0,45,8.0
-45,05/29/2022,Red Rooster,Dark,4&20 French Roost,yes,5,Aeropress,23,206,,0,8.0
-46,05/30/2022,Red Rooster,Light,Farmhouse Breakfast,yes,9,Chemex,34,410,131.0,45,7.75
-47,05/30/2022,Red Rooster,Light,Farmhouse Breakfast,yes,4,Aeropress,25,205,,0,6.5
-48,05/31/2022,Black River Roasters,Dark,Sumatra,Yes,5,Aeropress,22,215,,0,7.25
-49,06/01/2022,Black River Roasters,DArk,Sumatra,Yes,9,Chemex,33,402,121.0,45,7.0
-50,06/02/2022,Black River Roasters,Dark,Sumatra,Yes,5,Aeropress,23,205,,0,7.25
-51,06/09/2022,Black Acres Roastery,Medium,Seya Blend,yes,5,Aeropress,22,201,,0,8.0
-52,06/08/2022,Black River Roasters,Dark,Sumatra,Yes,9,Chemex,29,501,120.0,45,7.0
-53,06/13/2022,Black Acres Roastery,Medium,Seya Blend,Yes,6,Aeropress,22,212,,0,6.0
-54,06/20/2022,Black Acres Roastery,Medium,Seya Blend,Yes,8,Chemex,35,506,106.0,45,7.0
-55,06/23/2022,Black Acres Roastery,Medium,Seya Blend,No,10,Chemex,31,502,,45,7.0
-56,06/27/2022,Black Acres Roastery,Medium,Seya Blend,Yes,5,Aeropress,22,201,,0,7.25
-57,06/29/2022,Black Acres Roastery,Medium,Seya Blend,Yes,9,Chemex,35,550,100.0,45,6.75
-58,07/06/2022,James Coffee Co,Dark,Night Owl,No,9,Chemex,35,551,,45,8.0
-59,07/04/2022,Black Acres Roastery,Medium,Seya Blend,Yes,8,Chemex,41,521,,45,8.0
-60,07/04/2022,Black Acres Roastery,Medium,Seya Blend,Yes,5,Aeropress,22,202,,0,7.75
-61,07/05/2022,Black Acres Roastery,Medium,Seya Blend,No,5,Aeropress,23,204,,0,7.5
-62,07/11/2022,James Coffee Co,Dark,Night Owl,yes,9,Chemex,35,470,119.0,45,7.5
-63,07/13/22,James Coffee CO,Dark,Night Owl,yes,10,Chemex,31,454,110.0,45,7.75
-64,07/15/2022,James Coffee Co,Dark,Night Owl,yes,9,Chemex,35,502,78.0,45,7.5
-65,07/17/2022,James Coffee Co,Dark,Night Owl,Yes,5,Aeropress,22,203,,0,8.0
-66,07/18/2022,James Coffee Co,Dark,night Owl,yes,9,chemex,35,510,92.0,50,7.75
-67,07/19/2022,James Coffee Co,Dark,Night Owl,yes,9,Chemex,35,502,93.0,50,8.25
-68,07/21/2022,Claudio's Cafe,Dark,Sprsso,yes,9,Chemex,35,505,100.0,50,8.25
-69,07/22/2022,Claudio's Cafe,Dark,Sprsso,yes,9,Chemex,35,520,103.0,50,8.0
-70,07/25/2022,Claudio's Cafe,Dark,Sprsso,yes,9,Chemex,35,502,98.0,45,8.0
-71,07/26/2022,Claudio's Cafe,Dark,Sprsso,yes,5,Aeropress,22,208,,0,7.25
-72,07/25/2022,Claudio's Cafe,DArk,Sprsso,yes,5,Aeropress,22,210,,0,7.5
-73,07/26/2022,Red Rooster,Medium,Old Crow Cuppa Joe,yes,9,Chemex,35,502,97.0,50,7.75
-74,07/28/2022,Red Rooster,Medium,Old Crow Cuppa Joe,yes,5,Aeropress,30,207,,0,7.0
-75,07/27/2022,Claudio's Cafe,Dark,Sprsso,yes,9,Chemex,35,503,98.0,50,7.75
-76,07/28/2022,Claudio's Cafe,Dark,Sprsso,Yes,9,Chemex,35,502,107.0,50,7.75
-77,07/29/2022,Claudio's Cafe,Dark,Sprsso,yes,5,Aeropress,22,206,,0,7.0
-78,08/01/2022,Red Rooster,Medium Dark,Funky Chicken,yes,9,Chemex,36,504,93.0,53,7.5
-79,07/30/2022,Claudio's CAfe,Dark,Sprsso,Yes,9,Chemex,40,527,100.0,50,7.0
-80,08/01/2022,Red Rooster,Medium Dark,Funky Chicken,No,5,Aeropress,21,205,,0,7.0
-81,08/02/2022,Allegro,Medium Dark,Rainforest Blend,yes,5,Aeropress,22,205,,0,7.0
-82,08/03/2022,Allegro,Medium Dark,Rainforest Blend,yes,9,Chemex,36,534,99.0,50,7.25
-83,08/05/2022,Allegro,Medium Dark,Rainforest Blend,yes,5,Aeropress,22,205,,0,7.25
-84,08/08/2022,Allegro,MEdium Dark,Rainforest Blend,yes,5,Aeropress,23,203,,0,7.25
-85,08/09/2022,Allegro,Medium Dark,Rainforest Blend,yes,5,Aeropress,22,213,,0,7.5
-86,08/11/2022,Allegro,Medium Dark,Rainforest Blend,yes,9,Chemex,32,521,98.0,50,7.25
-87,08/17/2022,Bason,medium,Blueberry Créme,yes,10,chemex,37,510,104.0,50,8.0
-88,08/17/2022,Bason,Medium,Blueberry Créme,yes,5,Aeropress,22,203,,0,7.75
-89,08/23/2022,Bason,medium,Blueberry Créme,no,9,chemex,32,523,,50,7.5
-90,08/24/2022,Bason,Medium,Blueberry Créme,yes,5,aeropress,24,204,,0,7.5
-91,08/25/2022,Bason,Medium,Blueberry Créme,yes,5,aeropress,22,210,,0,7.75
-92,08/26/2022,Bason,medium,Blueberry Créme,no,10,chemex,30,505,,55,7.75
-93,08/29/2022,Bason,medium,Blueberry Créme,yes,6,aeropress,28,209,,0,8.0
-94,08/29/2022,bason,medium,Sea Salt Caramel mocha,yes,6,aeropress,22,205,,0,7.5
-95,08/30/2022,bason,medium,sea salt caramel mocha,yes,6,aeropress,30,510,,50,7.5
-96,08/30/2022,bason,medium,sea salt caramel mocha,yes,10,chemex,30,510,,50,7.5
-97,08/30/2022,bason,medium,sea salt caramel mocha,no,6,aeropress,22,210,,0,7.5
-98,09/01/2022,bason,medium,sea salt caramel mocha,yes,6,aeropress,22,205,,0,7.75
-99,09/08/2022,bason,medium,sea salt caramel,no,10,chemex,35,518,,50,7.25
-100,09/09/2022,Bason,Medium,Sea Salt Caramel Mocha,yes,6,aeropress,22,205,,0,7.5
-101,09/11/2022,Bason,Medium,Ethiopian Yirgacheffe,no,10,chemex,40,521,n/A,50,6.5
-102,09/12/2022,bason,medium,Ethiopian Yirgacheffe,yes,6,aeropress,25,208,,0,6.75
-103,09/12/2022,bason,medium,Ethiopian Yirgacheffe,yes,6,aeropress,20,205,,0,7.25
-104,09/14/2022,bason,medium,Ethiopian Yirgacheffe,yes,10,chemex,31,514,n/A,50,7.75
-105,09/13/2022,bason,medium,Ethiopian Yirgacheffe,no,10,chemex,30,520,,65,7.0
-106,09/15/2022,bason,medium,Ethiopian Yirgacheffe	,yes,6,aeropress,24,208,,0,7.75
-107,09/21/2022,Trader Joe's,medium / light,El Salvador Pacamara / Nicaragua Maragogype,yes,6,aeropress,22,204,,0,7.0
-108,09/21/2022,Bones Coffee Co,Medium,Sinn-o-bun,no,10,chemex,30,504,,45,7.0
-109,09/22/2022,trader joe's,medium / light,El Salvador Pacamara / Nicaragua Maragogype,no,10,chemex,30,550,,45,8.25
-110,09/23/2022,trader joe's,medium / light,El Salvador Pacamara / Nicaragua Maragogype	,no,10,chemex,30,556,,45,8.0
-111,09/23/2022,Bones Coffee Co,medium,Sinn-o-bun,no,6,aeropress,22,207,,0,7.5
-112,09/26/2022,Deathwish,medium,Pumpkin Chai,no,10,chemex,30,551,,45,8.0
-113,09/25/2022,deathwish,medium,pumpkin chai,,10,chemex,30,556,,45,7.5
-114,09/24/2022,Bones Coffee co,medium,Sinn-o-bun,no,14,french press,60,605,,60,6.5
-115,09/24/2022,trader joe's,medium / light,El Salvador Pacamara / Nicaragua Maragogype,no,10,chemex,30,550,,45,8.0
-116,09/28/2022,deathwish,medium,pumpkin chai,no,10,chemex,30,554,,45,7.5
-117,09/27/2022,deathwish,medium,pumpkin chai,no,10,chemex,30,550,,45,7.75
-118,09/27/2022,bones coffee co,medium,irish cream,yes,6,aeropress,22,200,,0,7.5
-119,09/29/2022,bones coffee co,medium,irish cream,yes,6,aeropress,22,204,,0,7.75
-120,09/28/2022,bones coffee co,medium,irish cream,yes,6,aeropress,22,200,,0,7.5
-121,09/28/2022,deathwish,medium,pumpkin chai,no,10,chemex,30,500,,45,7.25
-122,09/29/2022,deathwish,medium,pumpkin chai,no,10,chemex,30,551,,45,7.75
-123,09/30/2022,deathwish,medium,pumpkin chai,no,10,chemex,30,555,,65,7.5
-124,09/30/2022,bones coffee co,medium,irish cream,no,6,aeropress,22,257,,0,7.25
-125,10/02/2022,deathwish,medium,pumpkin chai,no,10,chemex,30,552,,45,7.5
-126,10/02/2022,bones coffee co,medium,s'morey time,yes,5,aeropress,22,228,,0,7.5
-127,10/02/2022,bones coffee co,medium,s'morey time,no,5,aeropress,22,234,,0,7.25
-128,10/01/2022,bones coffee co,medium,irish cream,no,10,chemex,29,510,,45,7.5
-129,10/03/2022,bones coffee co,medium,s'morey time,no,10,chemex,30,554,,45,6.75
-130,10/04/2022,bones coffee co,medium,s'morey time,no,5,aeropress,22,250,,0,6.5
-131,10/05/2022,bones coffee co,unknown,high voltage,no,10,chemex,35,575,,45,7.0
-132,10/06/2022,bones coffee co,medium,s'morey time,no,6,aeropress,22,239,,0,7.0
-133,10/06/2022,trader joe's,medium / light,El Salvador Pacamara / Nicaragua Maragogype,no,10,chemex,30,556,,45,7.25
-134,10/07/2022,bones coffee co,dark,army of dark chocolate,no,10,chemex,20,553,,45,8.5
-135,10/07/2022,bones coffee co,medium,jacked 'o' lantern,no,10,chemex,30,553,,45,7.75
-136,10/10/2022,bones coffee co,dark,army of dark chocolate,no,10,chemex,30,552,,45,7.5
-137,10/09/2022,deathwish,medium,pumpkin chai,no,10,chemex,30,550,,45,7.25
-138,10/08/2022,bones coffee co,dark,army of dark chocolate,no,10,chemex,30,567,,45,7.25
-139,10/08/2022,deathwish,medium,pumpkin chai,no,10,chemex,30,552,,45,7.0
-140,10/11/2022,bones coffee co,medium,jacked 'o' lantern,no,10,chemex,32,551,,50,7.75
-141,10/13/2022,bones coffee co,medium,High Voltage,no,10,cheme,30,567,,45,7.25
-142,10/13/2022,bones coffee co,medium,Ruff Weather,no,10,chemex,30,551,,45,7.75
-143,10/14/2022,bones coffee co,medium,Ruff Weather,no,10,chemex,30,552,,45,7.5
-144,10/17/2022,bones coffee co,medium,Ruff Weather,no,10,chemex,30,552,,45,7.5
-145,10/17/2022,bones coffee co,medium,ruff weather,no,10,chemex,30,555,,45,7.5
-146,10/18/2022,bones coffee co,medium,ruff weather,no,10,chemex,30,549,,50,7.5
-147,10/15/2022,bones coffee co,medium,ruff weather,no,10,chemex,30,562,,45,7.5
-148,10/16/2022,bones coffee co,meidum,ruff weathre,no,10,chemex,30,553,,45,7.5
-149,10/18/2022,bones coffee co,medium,ruff weather,no,11,chemex,30,553,,45,8.0
-150,10/19/2022,bones coffee co,medium,ruff weather,no,11,chemex,30,552,,45,7.75
-151,10/20/2022,bones coffee co,medium,ruff weather,no,11,chemex,36,578,,45,7.75
-152,10/19/2022,bones coffee co,medium,ruff weather,no,11,chemex,30,553,,45,7.75
-153,10/20/2022,bones coffee co,medium,jacked 'o' lantern,no,11,chemex,30,553,,45,7.75
-154,10/21/2022,trader joe's,medium / light,El Salvador Pacamara / Nicaragua Maragogype,no,10,chemex,32,560,,55,7.75
-155,10/20/2022,trader joe's,medium / light,El Salvador Pacamara / Nicaragua Maragogype,no,11,chemex,30,552,,45,7.25
-156,10/25/2022,trader joe's,medium / light,El Salvador Pacamara / Nicaragua Maragogype,no,10,chemex,33,500,,45,7.75
-157,10/23/2022,trader joe's,medium / light,El Salvador Pacamara / Nicaragua Maragogype,no,10,chemex,30,550,,45,7.75
-158,11/01/2022,bones coffee co,medium,jacked 'o' lantern,no,5,aeropress,22,243,,0,7.5
-159,10/31/2022,bones coffee co,medium,jacked 'o' lantern,no,5,aeropress,22,236,,0,7.75
-160,10/31/2022,deathwish,medium,pumpkin chai,no,10,chemex,35,556,,45,7.5
-161,11/28/2022,bason,unknown,jingle bell java,no,11,chemex,35,556,,45,8.0
-162,11/25/2022,bason,unknown,jingle bell java,no,11,chemex,35,580,,45,8.25
-163,11/26/2022,bason,unknown,jingle bell java,no,11,chemex,35,556,,45,8.0
-164,11/27/2022,bason,unknown,jingle bell java,no,11,chemex,35,558,,45,8.0
-165,11/28/2022,bason,dark,mexican dark,no,6,aeropress,22,245,,0,7.25
-166,11/29/2022,bason,dark,mexican dark,no,6,aeropress,22,241,,0,7.75
-167,11/29/2022,bason,unknown,jingle bell java,no,11,chemex,30,521,,45,8.0
-168,11/30/2022,bason,unknonw,jingle bell java,no,11,chemex,35,550,,45,8.0
-169,12/01/2022,bason,unknown,jingle bell java,no,11,chemex,30,504,,45,7.75
-170,12/02/2022,bason,dark,mexican dark,no,6,aeropress,22,233,,0,8.25
-171,12/02/2022,bason,unknown,jingle bell java,no,11,chemex,35,261,,45,8.0
-172,12/05/2022,bason,medium / dark,santa's wintertime blend,no,11,chemex,35,552,,50,8.25
-173,12/04/2022,bason,unknown,jingle bell java,no,11,chemex,35,561,,45,8.5
-174,12/05/2022,bason,dark,mexican dark,no,6,aeropress,22,242,,0,8.0
-175,12/06/2022,bason,medium / dark,santa's wintertime blend,no,11,chemex,35,553,,45,8.25
-176,12/06/2022,bason,dark,mexican dark,no,6,aeropress,22,247,,0,8.0
-177,12/07/2022,bason,dark / medium,santa's wintertime blend,no,11,chemex,35,556,,45,8.25
-178,12/07/2022,bason,dark,mexican dark,no,6,aeropress,22,242,,0,8.25
-179,12/08/2022,bason,medium / dark,santa's wintertime blend,no,11,chemex,35,556,,45,8.25
-180,12/09/2022,bason,dark,mexican dark,no,6,aeropress,22,245,,0,8.0
-181,12/09/2022,bason,dark,mexican dark,no,11,french press,35,553,,0,8.25
-182,12/11/2022,bason,unknown,jingle bell java,no,11,chemex,35,553,,45,8.75
-183,12/14/2022,bason,unknown,Mistletoe Java,no,6,aeropress,22,250,,0,8.5
-184,12/14/2022,bason,unknown,Mistletoe Java,no,11,chemex,35,550,,45,8.25
-185,12/15/2022,bason,unknown,Mistletoe Java,no,11,chemex,35,552,,45,8.0
-186,12/16/2022,bason,unknown,mistletoe java,no,11,chemex,35,555,,45,8.25
-187,12/19/2022,bason,unknown,mistletoe java,no,11,chemex,35,556,,45,8.0
-188,12/19/2022,bason,unknown,mistletoe java,no,11,chemex,35,559,,45,8.0
-189,12/27/2022,bason,unknown,death by chocolate,no,11,chemex,35,558,,45,7.75
-190,12/28/2022,bason,unknown,death by chocolate,no,11,chemex,35,558,,45,8.0
-191,01/04/2022,legrand coffee house,medium,costa rica,no,11,chemex,35,551,,45,8.25
-192,01/01/2023,legrand coffee house,medium,costa rica,no,11,chemex,35,566,,45,8.0
-193,01/05/2023,legrand coffee house,medium,costa rica,no,11,chemex,35,559,,45,8.25
-194,01/06/2023,legrand coffee house,medium,costa rica,no,11,chemex,35,558,,45,8.25
-195,01/06/2023,legrand coffee house,medium,costa rica,no,11,chemex,32,529,,50,7.0
-196,01/09/2022,legrand coffee house,medium,costa rica,no,11,chemex,35,554,,45,8.0
-197,01/08/2022,legrand coffee house,medium,costa rica,no,11,chemex,35,555,,50,8.5
-198,01/09/2022,legrand coffee house,medium,costa rica,no,11,chemex,30,504,,45,7.25
-199,01/11/2023,legrand coffee house,medium,columbia,no,11,chemex,35,556,,45,8.0
-200,01/12/2022,legrand coffee house,medium,columbia,no,11,chemex,35,557,,45,8.0
-201,01/12/2022,legrand coffee house,medium,columbia,no,11,chemex,30,504,,45,7.5
-202,01/13/2023,legrand coffee house,medium,columbia,no,11,chemex,35,558,,45,7.25
-203,01/17/2023,legrand coffee house,medium,columbia,no,6,chemex,39,557,,45,6.0
-204,01/14/2023,legrand coffee house,medium,columbia,no,11,chemex,35,554,,45,8.0
-205,01/15/2023,legrand coffee house,medium,columbia,no,11,chemex,35,555,,45,8.0
-206,01/16/2023,legrand coffee house,medium,columbia,no,11,chemex,35,557,,45,8.0
-207,01/16/2023,legrand coffee house,medium,columbia,no,6,aeropress,22,254,,0,8.25
-208,01/18/2023,legrand coffee house,medium,guatemala,no,11,chemex,35,557,,45,8.25
-209,01/19/2023,legrand coffee house,medium,guatemala,no,11,chemex,35,554,,44,8.25
-210,01/20/2023,legrand coffee house,medium,guatemala,no,11,chemex,35,562,,45,8.25
-211,01/23/2023,legrand,medium,guatemala,no,11,chemex,35,557,,45,8.0
-212,01/21/2023,legrand,medium,guatemala,no,11,chemex,35,552,,45,8.0
-213,01/22/2023,legrand coffee house,medium,guatemala,no,11,chemex,35,550,,45,7.25
-214,01/23/2023,legrand coffee house,medium,guatemala,no,11,chemex,35,552,,45,7.75
-215,01/24/2023,legrand coffee house,medium,guatemala,no,11,chemex,35,550,,45,7.75
-216,01/25/2023,legrand coffee house,medium,guatemala,no,11,chemex,35,562,,47,8.0
-217,01/26/2023,one village coffee,medium,nordico,no,11,chemex,35,556,,45,7.75
-218,01/27/2023,one village coffee,medium,nordico,no,11,chemex,35,552,,45,8.25
-219,02/01/2023,one village coffee,medium,nordico,no,11,chemex,35,552,,47,8.25
-220,02/02/2023,one village coffee,medium,nordico,no,11,chemex,35,550\,,45,8.25
-221,02/03/2023,one village coffee,medium,nordico,no,11,chemex,35,553,,45,7.25
-222,02/03/2023,black river roasters,medium dark,chiapas mexico,no,11,chemex,35,553,,45,8.25
-223,02/06/2023,one village coffee,medium,nordico,no,11,chemex,35,551,,45,8.5
-224,02/05/2023,one village coffee,medium,nordico,no,11,chemex,35,553,,45,8.25
-225,02/07/2023,black river roasters,medium dark,chiapas mexico,no,11,chemex,35,553,,45,8.25
-226,02/08/2023,black river roasters,medium dark,chiapas mexico,no,6,aeropress,22,236,,0,8.5
-227,02/10/2023,black river roasters,medium dark,chiapas mexico,no,11,chemex,35,558,,45,8.25
-228,02/13/2023,black river roasters,medium dark,chiapas mexico,no,11,chemex,35,553,,45,8.25
-229,02/12/2023,black river roasters,medium dark,chiapas mexico,no,11,chemex,35,553,,45,8.25
-230,02/14/2023,black river roasters,medium dark,chiapas mexico,no,11,chemex,35,554,,45,8.5
-231,02/15/2023,black river roasters,medium dark,chiapas mexico,no,11,chemex,35,553,,45,8.25
-232,02/16/2023,black river roasters,dark,dark star,no,6,aeropress,22,236,,0,7.0
-233,02/17/2023,black river roasters,dark,dark star,no,11,chemex,35,553,,45,7.5
-234,02/21/2023,black river roasters,dark,dark star,no,11,chemex,35,551,,75,8.25
-235,02/18/2023,black river roasters,dark,dark star,no,11,chemex,35,560,,45,8.0
-236,02/19/2023,black river roasters,dark,dark star,no,11,chemex,35,553,,45,8.25
-237,02/22/2023,black river roasters,dark,dark star,no,6,aeropress,22,241,,0,8.25
-238,02/24/2023,black river roasters,dark,dark star,no,11,chemex,35,552,,45,7.25
-239,02/27/2023,black river roaster,dark,dark star,no,11,chemex,35,556,,45,8.5
-240,02/28/2023,black river roasters,dark,dark star,no,11,chemex,35,551,,50,7.25
-241,03/01/2023,black river roasters,dark,dark star,no,11,chemex,40,602,,45,7.0
-242,03/01/2023,trader joes,medium,zamora ecuador,no,11,chemex,11,551,,45,8.75
-243,03/01/2023,trader joes,medium,zamora eceador,no,11,chemex,35,554,,45,7.5
-244,03/07/2023,trader joes,medium,zamora ecuador,no,6,aeropress,22,241,,0,8.0
-245,03/13/2023,bason,dark,guatemalan huehuetenango,no,11,chemex,35,554,,45,8.0
-246,03/14/2023,bason,dark,guatemalan huehuetenango,no,6,aeropress,22,237,,0,7.75
-247,03/17/2023,bason,dark,guatemalan huehuetenango,no,11,chemex,35,554,,46,7.75
-248,03/20/2023,bason,unknown,ironman blend,no,11,chemex,35,554,,45,5.0
-249,03/20/2023,bason,unknown,ironman blend,no,6,aeropress,22,230,,0,8.5
-250,03/21/2023,bason,unknown,ironman blend,no,11,chemex,35,551,,45,8.0
-251,03/24/2023,bason,dark,guatemalan huehuetenango,no,5,aeropress,22,242,,0,8.25
-252,03/25/2023,bason,unknown,ironman blend,no,12,chemex,38,605,,45,7.0
-253,03/28/2023,bason,unknown,ironman blend,no,12,chemex,35,575,,50,7.75
-254,03/27/2023,bason,unknown,ironman blend,no,12,chemex,35,551,,45,8.0
-255,03/30/2023,bason,unknown,ironman blend,no,12,chemex,35,554,,45,8.25
-256,03/30/2023,bason,dark,guatemalan huehuetenango,no,5,aeropresss,22,241,,0,8.25
-257,04/05/2023,bason,medium,Papua New Guinea,no,12,chemex,35,553,n/a,45,8.5
+,Date,Brand,Roast,Blend,Iced,Grind_size,Method,Amount_coffee,Amount_water,Amount_ice,Bloom_time,Rating,Grinder_used,Total_time_m,Total_time_s
+0,03/29/2022,deathwish,medium,run the day,yes,8,chemex,42,503,242.0,45,7.0,,,
+1,03/31/2022,Deathwish,Medium,Run the Day,No,9,Chemex,33,507,,45,6.5,,,
+2,04/06/22,Deathwish,Medium,Run the Day,No,9,Chemex,31,506,,45,7.0,,,
+3,04/08/2022,Deathwish,Medium,Run the Day,Yes,10,Chemex,50,630,222.0,45,7.5,,,
+4,04/09/2022,Deathwish,Medium,Run the Day,Yes,10,Chemex,51,602,202.0,45,7.5,,,
+5,04/11/22,Deathwish,Medium,Run the Day,Yes,10,Chemex,46,608,255.0,45,8.0,,,
+6,04/12/22,Deathwish,Medium,Run the Day,No,3,Aeropress (Swirl),12,208,,0,8.0,,,
+7,04/12/2022,Deathwish,Medium,Run the Day,No,4,Aeropres,11,202,,0,7.5,,,
+8,04/13/2022,Broad Porch,Dark,Southern Split,No,4,Aeropress (Swirl),12,208,,0,7.0,,,
+9,04/13/2022,Broad Porch,Dark,Southern Split,No,4,Aeropress (Swirl),13,210,,0,6.5,,,
+10,04/14/22,Broad Porch,Dark,Southern Split,No,11,Chemex,30,510,,45,6.0,,,
+11,04/15/2022,Broad Porch,Dark,Southern Split,Yes,10,Chemex,41,657,210.0,45,7.0,,,
+12,04/17/2022,Broad Porch,Dark,Southern Split,Yes,10,Chemex,41,614,212.0,45,6.0,,,
+13,04/19/2022,Broad Porch,Dark,Southern Split,No,12,Cheme,31,499,,45,6.0,,,
+14,04/20/2022,Broad Porch,Dark,Southern Split,Yes,10,Chemex,42,578,227.0,45,7.0,,,
+15,04/22/2022,Broad Porch,Dark,Southern Split,Yes,9,Chemex,40,564,218.0,45,6.5,,,
+16,04/21/2022,Broad Porch,Dark,Southern Split,Yes,9,Chemex,42,570,220.0,45,6.5,,,
+17,04/25/2022,Broad Porch,Dark,Southern Split,Yes,4,Aeropress (Swirl),22,205,,0,8.0,,,
+18,04/26/2022,Broad Porch,Dark,Southern Split,Yes,4,Aeropress (Swirl),22,202,,0,8.0,,,
+19,04/27/2022,Bason,Lite Medium,Kona,Yes,10,Chemex,40,560,198.0,45,9.0,,,
+20,04/28/2022,Broad Porch,Medium,Costa Rica,Yes,4,Aeropress (Swirl),22,220,,0,7.25,,,
+21,04/30/2022,Broad Porch,Medium,Costa Rica,Yes,4,Aeropress (Swirl),22,206,,0,7.5,,,
+22,05/02/2022,Broad Porch,Medium,Costa Rica,Yes,4,Aeropress (Swirl),22,202,,0,7.5,,,
+23,05/04/2022,Bason,Lite Medium,Kona,Yes,10,Chemex,35,599,247.0,45,8.5,,,
+24,05/05/2022,Broad Porch,Medium,Costa Rica,Yes,4,Aeropress (Swirl),22,212,,0,7.5,,,
+25,05/06/2022,Bason,Lite Medium,Kona,Yes,10,Chemex,38,598,231.0,45,7.5,,,
+26,05/11/2022,Bason,Lite Medium,KONA,Yes,9,Chemex,36,550,200.0,45,8.0,,,
+27,05/11/2022,Broad Porch,Medium,Costa Rica,Yes,10,Chemex,30,209,,45,7.0,,,
+28,05/10/2022,Broad Porch,Medium,Costa Rica,Yes,5,Aeropress,22,209,,0,7.0,,,
+29,05/09/2022,Broad Porch,Medium,Costa Rica,Yes,5,Aeropress,23,214,,0,7.0,,,
+30,05/12/2022,Broad Porch,Medium,Costa Rica,Yes,5,Aeropres,20,208,,0,7.5,,,
+31,05/12/2022,Broad Porch,Medium,Costa Rica,Yes,5,Aeropress,21,209,,0,7.5,,,
+32,05/18/2022,Bason,Lite Medium,Kona,yes,9,Chemex,33,482,191.0,45,8.25,,,
+33,05/15/2022,Broad Porch,Medium,Costa Rica,Yes,5,Aeropress,22,205,,0,7.5,,,
+34,05/16/2022,Broad Porch,Medium,Costa Rica,Yes,5,Aeropress,23,207,,0,7.75,,,
+35,05/17/2022,Broad Porch,Medium,Costa Rica,Yes,5,Aeropress,23,201,,0,7.75,,,
+36,05/13/2022,Bason,Lite Medium,Kona,yes,9,Chemex,37,550,200.0,45,7.75,,,
+37,05/19/2022,Broad Porch,Medium,Costa Rica,Yes,5,Aeropress,22,205,,0,7.75,,,
+38,05/20/2022,Black River Roasters,Dark,Sumatra,Yes,5,Aeropress,24,203,,0,8.0,,,
+39,05/23/2022,Black River Roasters,Dark,Sumatra,Yes,9,Chemex,34,480,189.0,45,8.0,,,
+40,05/22/2022,Black River Roasters,Dark,Sumatra,Yes,9,Chemex,32,480,191.0,45,7.5,,,
+41,05/25/2022,Black River Roasters,Dark,Sumatra,yes,5,Aeropress,22,203,,0,7.5,,,
+42,05/26/2022,Black River Roasters,Dark,Sumatra,Yes,11,Chemex,34,482,190.0,45,5.5,,,
+43,05/27/2022,Black River Roasters,Dark,Sumatra,Yes,10,Chemex,35,456,222.0,45,7.5,,,
+44,05/28/2022,Red Rooster,Dark,4&20 French Roast,Yes,9,Chemex,35,405,105.0,45,8.0,,,
+45,05/29/2022,Red Rooster,Dark,4&20 French Roost,yes,5,Aeropress,23,206,,0,8.0,,,
+46,05/30/2022,Red Rooster,Light,Farmhouse Breakfast,yes,9,Chemex,34,410,131.0,45,7.75,,,
+47,05/30/2022,Red Rooster,Light,Farmhouse Breakfast,yes,4,Aeropress,25,205,,0,6.5,,,
+48,05/31/2022,Black River Roasters,Dark,Sumatra,Yes,5,Aeropress,22,215,,0,7.25,,,
+49,06/01/2022,Black River Roasters,DArk,Sumatra,Yes,9,Chemex,33,402,121.0,45,7.0,,,
+50,06/02/2022,Black River Roasters,Dark,Sumatra,Yes,5,Aeropress,23,205,,0,7.25,,,
+51,06/09/2022,Black Acres Roastery,Medium,Seya Blend,yes,5,Aeropress,22,201,,0,8.0,,,
+52,06/08/2022,Black River Roasters,Dark,Sumatra,Yes,9,Chemex,29,501,120.0,45,7.0,,,
+53,06/13/2022,Black Acres Roastery,Medium,Seya Blend,Yes,6,Aeropress,22,212,,0,6.0,,,
+54,06/20/2022,Black Acres Roastery,Medium,Seya Blend,Yes,8,Chemex,35,506,106.0,45,7.0,,,
+55,06/23/2022,Black Acres Roastery,Medium,Seya Blend,No,10,Chemex,31,502,,45,7.0,,,
+56,06/27/2022,Black Acres Roastery,Medium,Seya Blend,Yes,5,Aeropress,22,201,,0,7.25,,,
+57,06/29/2022,Black Acres Roastery,Medium,Seya Blend,Yes,9,Chemex,35,550,100.0,45,6.75,,,
+58,07/06/2022,James Coffee Co,Dark,Night Owl,No,9,Chemex,35,551,,45,8.0,,,
+59,07/04/2022,Black Acres Roastery,Medium,Seya Blend,Yes,8,Chemex,41,521,,45,8.0,,,
+60,07/04/2022,Black Acres Roastery,Medium,Seya Blend,Yes,5,Aeropress,22,202,,0,7.75,,,
+61,07/05/2022,Black Acres Roastery,Medium,Seya Blend,No,5,Aeropress,23,204,,0,7.5,,,
+62,07/11/2022,James Coffee Co,Dark,Night Owl,yes,9,Chemex,35,470,119.0,45,7.5,,,
+63,07/13/22,James Coffee CO,Dark,Night Owl,yes,10,Chemex,31,454,110.0,45,7.75,,,
+64,07/15/2022,James Coffee Co,Dark,Night Owl,yes,9,Chemex,35,502,78.0,45,7.5,,,
+65,07/17/2022,James Coffee Co,Dark,Night Owl,Yes,5,Aeropress,22,203,,0,8.0,,,
+66,07/18/2022,James Coffee Co,Dark,night Owl,yes,9,chemex,35,510,92.0,50,7.75,,,
+67,07/19/2022,James Coffee Co,Dark,Night Owl,yes,9,Chemex,35,502,93.0,50,8.25,,,
+68,07/21/2022,Claudio's Cafe,Dark,Sprsso,yes,9,Chemex,35,505,100.0,50,8.25,,,
+69,07/22/2022,Claudio's Cafe,Dark,Sprsso,yes,9,Chemex,35,520,103.0,50,8.0,,,
+70,07/25/2022,Claudio's Cafe,Dark,Sprsso,yes,9,Chemex,35,502,98.0,45,8.0,,,
+71,07/26/2022,Claudio's Cafe,Dark,Sprsso,yes,5,Aeropress,22,208,,0,7.25,,,
+72,07/25/2022,Claudio's Cafe,DArk,Sprsso,yes,5,Aeropress,22,210,,0,7.5,,,
+73,07/26/2022,Red Rooster,Medium,Old Crow Cuppa Joe,yes,9,Chemex,35,502,97.0,50,7.75,,,
+74,07/28/2022,Red Rooster,Medium,Old Crow Cuppa Joe,yes,5,Aeropress,30,207,,0,7.0,,,
+75,07/27/2022,Claudio's Cafe,Dark,Sprsso,yes,9,Chemex,35,503,98.0,50,7.75,,,
+76,07/28/2022,Claudio's Cafe,Dark,Sprsso,Yes,9,Chemex,35,502,107.0,50,7.75,,,
+77,07/29/2022,Claudio's Cafe,Dark,Sprsso,yes,5,Aeropress,22,206,,0,7.0,,,
+78,08/01/2022,Red Rooster,Medium Dark,Funky Chicken,yes,9,Chemex,36,504,93.0,53,7.5,,,
+79,07/30/2022,Claudio's CAfe,Dark,Sprsso,Yes,9,Chemex,40,527,100.0,50,7.0,,,
+80,08/01/2022,Red Rooster,Medium Dark,Funky Chicken,No,5,Aeropress,21,205,,0,7.0,,,
+81,08/02/2022,Allegro,Medium Dark,Rainforest Blend,yes,5,Aeropress,22,205,,0,7.0,,,
+82,08/03/2022,Allegro,Medium Dark,Rainforest Blend,yes,9,Chemex,36,534,99.0,50,7.25,,,
+83,08/05/2022,Allegro,Medium Dark,Rainforest Blend,yes,5,Aeropress,22,205,,0,7.25,,,
+84,08/08/2022,Allegro,MEdium Dark,Rainforest Blend,yes,5,Aeropress,23,203,,0,7.25,,,
+85,08/09/2022,Allegro,Medium Dark,Rainforest Blend,yes,5,Aeropress,22,213,,0,7.5,,,
+86,08/11/2022,Allegro,Medium Dark,Rainforest Blend,yes,9,Chemex,32,521,98.0,50,7.25,,,
+87,08/17/2022,Bason,medium,Blueberry Créme,yes,10,chemex,37,510,104.0,50,8.0,,,
+88,08/17/2022,Bason,Medium,Blueberry Créme,yes,5,Aeropress,22,203,,0,7.75,,,
+89,08/23/2022,Bason,medium,Blueberry Créme,no,9,chemex,32,523,,50,7.5,,,
+90,08/24/2022,Bason,Medium,Blueberry Créme,yes,5,aeropress,24,204,,0,7.5,,,
+91,08/25/2022,Bason,Medium,Blueberry Créme,yes,5,aeropress,22,210,,0,7.75,,,
+92,08/26/2022,Bason,medium,Blueberry Créme,no,10,chemex,30,505,,55,7.75,,,
+93,08/29/2022,Bason,medium,Blueberry Créme,yes,6,aeropress,28,209,,0,8.0,,,
+94,08/29/2022,bason,medium,Sea Salt Caramel mocha,yes,6,aeropress,22,205,,0,7.5,,,
+95,08/30/2022,bason,medium,sea salt caramel mocha,yes,6,aeropress,30,510,,50,7.5,,,
+96,08/30/2022,bason,medium,sea salt caramel mocha,yes,10,chemex,30,510,,50,7.5,,,
+97,08/30/2022,bason,medium,sea salt caramel mocha,no,6,aeropress,22,210,,0,7.5,,,
+98,09/01/2022,bason,medium,sea salt caramel mocha,yes,6,aeropress,22,205,,0,7.75,,,
+99,09/08/2022,bason,medium,sea salt caramel,no,10,chemex,35,518,,50,7.25,,,
+100,09/09/2022,Bason,Medium,Sea Salt Caramel Mocha,yes,6,aeropress,22,205,,0,7.5,,,
+101,09/11/2022,Bason,Medium,Ethiopian Yirgacheffe,no,10,chemex,40,521,n/A,50,6.5,,,
+102,09/12/2022,bason,medium,Ethiopian Yirgacheffe,yes,6,aeropress,25,208,,0,6.75,,,
+103,09/12/2022,bason,medium,Ethiopian Yirgacheffe,yes,6,aeropress,20,205,,0,7.25,,,
+104,09/14/2022,bason,medium,Ethiopian Yirgacheffe,yes,10,chemex,31,514,n/A,50,7.75,,,
+105,09/13/2022,bason,medium,Ethiopian Yirgacheffe,no,10,chemex,30,520,,65,7.0,,,
+106,09/15/2022,bason,medium,Ethiopian Yirgacheffe	,yes,6,aeropress,24,208,,0,7.75,,,
+107,09/21/2022,Trader Joe's,medium / light,El Salvador Pacamara / Nicaragua Maragogype,yes,6,aeropress,22,204,,0,7.0,,,
+108,09/21/2022,Bones Coffee Co,Medium,Sinn-o-bun,no,10,chemex,30,504,,45,7.0,,,
+109,09/22/2022,trader joe's,medium / light,El Salvador Pacamara / Nicaragua Maragogype,no,10,chemex,30,550,,45,8.25,,,
+110,09/23/2022,trader joe's,medium / light,El Salvador Pacamara / Nicaragua Maragogype	,no,10,chemex,30,556,,45,8.0,,,
+111,09/23/2022,Bones Coffee Co,medium,Sinn-o-bun,no,6,aeropress,22,207,,0,7.5,,,
+112,09/26/2022,Deathwish,medium,Pumpkin Chai,no,10,chemex,30,551,,45,8.0,,,
+113,09/25/2022,deathwish,medium,pumpkin chai,,10,chemex,30,556,,45,7.5,,,
+114,09/24/2022,Bones Coffee co,medium,Sinn-o-bun,no,14,french press,60,605,,60,6.5,,,
+115,09/24/2022,trader joe's,medium / light,El Salvador Pacamara / Nicaragua Maragogype,no,10,chemex,30,550,,45,8.0,,,
+116,09/28/2022,deathwish,medium,pumpkin chai,no,10,chemex,30,554,,45,7.5,,,
+117,09/27/2022,deathwish,medium,pumpkin chai,no,10,chemex,30,550,,45,7.75,,,
+118,09/27/2022,bones coffee co,medium,irish cream,yes,6,aeropress,22,200,,0,7.5,,,
+119,09/29/2022,bones coffee co,medium,irish cream,yes,6,aeropress,22,204,,0,7.75,,,
+120,09/28/2022,bones coffee co,medium,irish cream,yes,6,aeropress,22,200,,0,7.5,,,
+121,09/28/2022,deathwish,medium,pumpkin chai,no,10,chemex,30,500,,45,7.25,,,
+122,09/29/2022,deathwish,medium,pumpkin chai,no,10,chemex,30,551,,45,7.75,,,
+123,09/30/2022,deathwish,medium,pumpkin chai,no,10,chemex,30,555,,65,7.5,,,
+124,09/30/2022,bones coffee co,medium,irish cream,no,6,aeropress,22,257,,0,7.25,,,
+125,10/02/2022,deathwish,medium,pumpkin chai,no,10,chemex,30,552,,45,7.5,,,
+126,10/02/2022,bones coffee co,medium,s'morey time,yes,5,aeropress,22,228,,0,7.5,,,
+127,10/02/2022,bones coffee co,medium,s'morey time,no,5,aeropress,22,234,,0,7.25,,,
+128,10/01/2022,bones coffee co,medium,irish cream,no,10,chemex,29,510,,45,7.5,,,
+129,10/03/2022,bones coffee co,medium,s'morey time,no,10,chemex,30,554,,45,6.75,,,
+130,10/04/2022,bones coffee co,medium,s'morey time,no,5,aeropress,22,250,,0,6.5,,,
+131,10/05/2022,bones coffee co,unknown,high voltage,no,10,chemex,35,575,,45,7.0,,,
+132,10/06/2022,bones coffee co,medium,s'morey time,no,6,aeropress,22,239,,0,7.0,,,
+133,10/06/2022,trader joe's,medium / light,El Salvador Pacamara / Nicaragua Maragogype,no,10,chemex,30,556,,45,7.25,,,
+134,10/07/2022,bones coffee co,dark,army of dark chocolate,no,10,chemex,20,553,,45,8.5,,,
+135,10/07/2022,bones coffee co,medium,jacked 'o' lantern,no,10,chemex,30,553,,45,7.75,,,
+136,10/10/2022,bones coffee co,dark,army of dark chocolate,no,10,chemex,30,552,,45,7.5,,,
+137,10/09/2022,deathwish,medium,pumpkin chai,no,10,chemex,30,550,,45,7.25,,,
+138,10/08/2022,bones coffee co,dark,army of dark chocolate,no,10,chemex,30,567,,45,7.25,,,
+139,10/08/2022,deathwish,medium,pumpkin chai,no,10,chemex,30,552,,45,7.0,,,
+140,10/11/2022,bones coffee co,medium,jacked 'o' lantern,no,10,chemex,32,551,,50,7.75,,,
+141,10/13/2022,bones coffee co,medium,High Voltage,no,10,cheme,30,567,,45,7.25,,,
+142,10/13/2022,bones coffee co,medium,Ruff Weather,no,10,chemex,30,551,,45,7.75,,,
+143,10/14/2022,bones coffee co,medium,Ruff Weather,no,10,chemex,30,552,,45,7.5,,,
+144,10/17/2022,bones coffee co,medium,Ruff Weather,no,10,chemex,30,552,,45,7.5,,,
+145,10/17/2022,bones coffee co,medium,ruff weather,no,10,chemex,30,555,,45,7.5,,,
+146,10/18/2022,bones coffee co,medium,ruff weather,no,10,chemex,30,549,,50,7.5,,,
+147,10/15/2022,bones coffee co,medium,ruff weather,no,10,chemex,30,562,,45,7.5,,,
+148,10/16/2022,bones coffee co,meidum,ruff weathre,no,10,chemex,30,553,,45,7.5,,,
+149,10/18/2022,bones coffee co,medium,ruff weather,no,11,chemex,30,553,,45,8.0,,,
+150,10/19/2022,bones coffee co,medium,ruff weather,no,11,chemex,30,552,,45,7.75,,,
+151,10/20/2022,bones coffee co,medium,ruff weather,no,11,chemex,36,578,,45,7.75,,,
+152,10/19/2022,bones coffee co,medium,ruff weather,no,11,chemex,30,553,,45,7.75,,,
+153,10/20/2022,bones coffee co,medium,jacked 'o' lantern,no,11,chemex,30,553,,45,7.75,,,
+154,10/21/2022,trader joe's,medium / light,El Salvador Pacamara / Nicaragua Maragogype,no,10,chemex,32,560,,55,7.75,,,
+155,10/20/2022,trader joe's,medium / light,El Salvador Pacamara / Nicaragua Maragogype,no,11,chemex,30,552,,45,7.25,,,
+156,10/25/2022,trader joe's,medium / light,El Salvador Pacamara / Nicaragua Maragogype,no,10,chemex,33,500,,45,7.75,,,
+157,10/23/2022,trader joe's,medium / light,El Salvador Pacamara / Nicaragua Maragogype,no,10,chemex,30,550,,45,7.75,,,
+158,11/01/2022,bones coffee co,medium,jacked 'o' lantern,no,5,aeropress,22,243,,0,7.5,,,
+159,10/31/2022,bones coffee co,medium,jacked 'o' lantern,no,5,aeropress,22,236,,0,7.75,,,
+160,10/31/2022,deathwish,medium,pumpkin chai,no,10,chemex,35,556,,45,7.5,,,
+161,11/28/2022,bason,unknown,jingle bell java,no,11,chemex,35,556,,45,8.0,,,
+162,11/25/2022,bason,unknown,jingle bell java,no,11,chemex,35,580,,45,8.25,,,
+163,11/26/2022,bason,unknown,jingle bell java,no,11,chemex,35,556,,45,8.0,,,
+164,11/27/2022,bason,unknown,jingle bell java,no,11,chemex,35,558,,45,8.0,,,
+165,11/28/2022,bason,dark,mexican dark,no,6,aeropress,22,245,,0,7.25,,,
+166,11/29/2022,bason,dark,mexican dark,no,6,aeropress,22,241,,0,7.75,,,
+167,11/29/2022,bason,unknown,jingle bell java,no,11,chemex,30,521,,45,8.0,,,
+168,11/30/2022,bason,unknonw,jingle bell java,no,11,chemex,35,550,,45,8.0,,,
+169,12/01/2022,bason,unknown,jingle bell java,no,11,chemex,30,504,,45,7.75,,,
+170,12/02/2022,bason,dark,mexican dark,no,6,aeropress,22,233,,0,8.25,,,
+171,12/02/2022,bason,unknown,jingle bell java,no,11,chemex,35,261,,45,8.0,,,
+172,12/05/2022,bason,medium / dark,santa's wintertime blend,no,11,chemex,35,552,,50,8.25,,,
+173,12/04/2022,bason,unknown,jingle bell java,no,11,chemex,35,561,,45,8.5,,,
+174,12/05/2022,bason,dark,mexican dark,no,6,aeropress,22,242,,0,8.0,,,
+175,12/06/2022,bason,medium / dark,santa's wintertime blend,no,11,chemex,35,553,,45,8.25,,,
+176,12/06/2022,bason,dark,mexican dark,no,6,aeropress,22,247,,0,8.0,,,
+177,12/07/2022,bason,dark / medium,santa's wintertime blend,no,11,chemex,35,556,,45,8.25,,,
+178,12/07/2022,bason,dark,mexican dark,no,6,aeropress,22,242,,0,8.25,,,
+179,12/08/2022,bason,medium / dark,santa's wintertime blend,no,11,chemex,35,556,,45,8.25,,,
+180,12/09/2022,bason,dark,mexican dark,no,6,aeropress,22,245,,0,8.0,,,
+181,12/09/2022,bason,dark,mexican dark,no,11,french press,35,553,,0,8.25,,,
+182,12/11/2022,bason,unknown,jingle bell java,no,11,chemex,35,553,,45,8.75,,,
+183,12/14/2022,bason,unknown,Mistletoe Java,no,6,aeropress,22,250,,0,8.5,,,
+184,12/14/2022,bason,unknown,Mistletoe Java,no,11,chemex,35,550,,45,8.25,,,
+185,12/15/2022,bason,unknown,Mistletoe Java,no,11,chemex,35,552,,45,8.0,,,
+186,12/16/2022,bason,unknown,mistletoe java,no,11,chemex,35,555,,45,8.25,,,
+187,12/19/2022,bason,unknown,mistletoe java,no,11,chemex,35,556,,45,8.0,,,
+188,12/19/2022,bason,unknown,mistletoe java,no,11,chemex,35,559,,45,8.0,,,
+189,12/27/2022,bason,unknown,death by chocolate,no,11,chemex,35,558,,45,7.75,,,
+190,12/28/2022,bason,unknown,death by chocolate,no,11,chemex,35,558,,45,8.0,,,
+191,01/04/2022,legrand coffee house,medium,costa rica,no,11,chemex,35,551,,45,8.25,,,
+192,01/01/2023,legrand coffee house,medium,costa rica,no,11,chemex,35,566,,45,8.0,,,
+193,01/05/2023,legrand coffee house,medium,costa rica,no,11,chemex,35,559,,45,8.25,,,
+194,01/06/2023,legrand coffee house,medium,costa rica,no,11,chemex,35,558,,45,8.25,,,
+195,01/06/2023,legrand coffee house,medium,costa rica,no,11,chemex,32,529,,50,7.0,,,
+196,01/09/2022,legrand coffee house,medium,costa rica,no,11,chemex,35,554,,45,8.0,,,
+197,01/08/2022,legrand coffee house,medium,costa rica,no,11,chemex,35,555,,50,8.5,,,
+198,01/09/2022,legrand coffee house,medium,costa rica,no,11,chemex,30,504,,45,7.25,,,
+199,01/11/2023,legrand coffee house,medium,columbia,no,11,chemex,35,556,,45,8.0,,,
+200,01/12/2022,legrand coffee house,medium,columbia,no,11,chemex,35,557,,45,8.0,,,
+201,01/12/2022,legrand coffee house,medium,columbia,no,11,chemex,30,504,,45,7.5,,,
+202,01/13/2023,legrand coffee house,medium,columbia,no,11,chemex,35,558,,45,7.25,,,
+203,01/17/2023,legrand coffee house,medium,columbia,no,6,chemex,39,557,,45,6.0,,,
+204,01/14/2023,legrand coffee house,medium,columbia,no,11,chemex,35,554,,45,8.0,,,
+205,01/15/2023,legrand coffee house,medium,columbia,no,11,chemex,35,555,,45,8.0,,,
+206,01/16/2023,legrand coffee house,medium,columbia,no,11,chemex,35,557,,45,8.0,,,
+207,01/16/2023,legrand coffee house,medium,columbia,no,6,aeropress,22,254,,0,8.25,,,
+208,01/18/2023,legrand coffee house,medium,guatemala,no,11,chemex,35,557,,45,8.25,,,
+209,01/19/2023,legrand coffee house,medium,guatemala,no,11,chemex,35,554,,44,8.25,,,
+210,01/20/2023,legrand coffee house,medium,guatemala,no,11,chemex,35,562,,45,8.25,,,
+211,01/23/2023,legrand,medium,guatemala,no,11,chemex,35,557,,45,8.0,,,
+212,01/21/2023,legrand,medium,guatemala,no,11,chemex,35,552,,45,8.0,,,
+213,01/22/2023,legrand coffee house,medium,guatemala,no,11,chemex,35,550,,45,7.25,,,
+214,01/23/2023,legrand coffee house,medium,guatemala,no,11,chemex,35,552,,45,7.75,,,
+215,01/24/2023,legrand coffee house,medium,guatemala,no,11,chemex,35,550,,45,7.75,,,
+216,01/25/2023,legrand coffee house,medium,guatemala,no,11,chemex,35,562,,47,8.0,,,
+217,01/26/2023,one village coffee,medium,nordico,no,11,chemex,35,556,,45,7.75,,,
+218,01/27/2023,one village coffee,medium,nordico,no,11,chemex,35,552,,45,8.25,,,
+219,02/01/2023,one village coffee,medium,nordico,no,11,chemex,35,552,,47,8.25,,,
+220,02/02/2023,one village coffee,medium,nordico,no,11,chemex,35,550\,,45,8.25,,,
+221,02/03/2023,one village coffee,medium,nordico,no,11,chemex,35,553,,45,7.25,,,
+222,02/03/2023,black river roasters,medium dark,chiapas mexico,no,11,chemex,35,553,,45,8.25,,,
+223,02/06/2023,one village coffee,medium,nordico,no,11,chemex,35,551,,45,8.5,,,
+224,02/05/2023,one village coffee,medium,nordico,no,11,chemex,35,553,,45,8.25,,,
+225,02/07/2023,black river roasters,medium dark,chiapas mexico,no,11,chemex,35,553,,45,8.25,,,
+226,02/08/2023,black river roasters,medium dark,chiapas mexico,no,6,aeropress,22,236,,0,8.5,,,
+227,02/10/2023,black river roasters,medium dark,chiapas mexico,no,11,chemex,35,558,,45,8.25,,,
+228,02/13/2023,black river roasters,medium dark,chiapas mexico,no,11,chemex,35,553,,45,8.25,,,
+229,02/12/2023,black river roasters,medium dark,chiapas mexico,no,11,chemex,35,553,,45,8.25,,,
+230,02/14/2023,black river roasters,medium dark,chiapas mexico,no,11,chemex,35,554,,45,8.5,,,
+231,02/15/2023,black river roasters,medium dark,chiapas mexico,no,11,chemex,35,553,,45,8.25,,,
+232,02/16/2023,black river roasters,dark,dark star,no,6,aeropress,22,236,,0,7.0,,,
+233,02/17/2023,black river roasters,dark,dark star,no,11,chemex,35,553,,45,7.5,,,
+234,02/21/2023,black river roasters,dark,dark star,no,11,chemex,35,551,,75,8.25,,,
+235,02/18/2023,black river roasters,dark,dark star,no,11,chemex,35,560,,45,8.0,,,
+236,02/19/2023,black river roasters,dark,dark star,no,11,chemex,35,553,,45,8.25,,,
+237,02/22/2023,black river roasters,dark,dark star,no,6,aeropress,22,241,,0,8.25,,,
+238,02/24/2023,black river roasters,dark,dark star,no,11,chemex,35,552,,45,7.25,,,
+239,02/27/2023,black river roaster,dark,dark star,no,11,chemex,35,556,,45,8.5,,,
+240,02/28/2023,black river roasters,dark,dark star,no,11,chemex,35,551,,50,7.25,,,
+241,03/01/2023,black river roasters,dark,dark star,no,11,chemex,40,602,,45,7.0,,,
+242,03/01/2023,trader joes,medium,zamora ecuador,no,11,chemex,11,551,,45,8.75,,,
+243,03/01/2023,trader joes,medium,zamora eceador,no,11,chemex,35,554,,45,7.5,,,
+244,03/07/2023,trader joes,medium,zamora ecuador,no,6,aeropress,22,241,,0,8.0,,,
+245,03/13/2023,bason,dark,guatemalan huehuetenango,no,11,chemex,35,554,,45,8.0,,,
+246,03/14/2023,bason,dark,guatemalan huehuetenango,no,6,aeropress,22,237,,0,7.75,,,
+247,03/17/2023,bason,dark,guatemalan huehuetenango,no,11,chemex,35,554,,46,7.75,,,
+248,03/20/2023,bason,unknown,ironman blend,no,11,chemex,35,554,,45,5.0,,,
+249,03/20/2023,bason,unknown,ironman blend,no,6,aeropress,22,230,,0,8.5,,,
+250,03/21/2023,bason,unknown,ironman blend,no,11,chemex,35,551,,45,8.0,,,
+251,03/24/2023,bason,dark,guatemalan huehuetenango,no,5,aeropress,22,242,,0,8.25,,,
+252,03/25/2023,bason,unknown,ironman blend,no,12,chemex,38,605,,45,7.0,,,
+253,03/28/2023,bason,unknown,ironman blend,no,12,chemex,35,575,,50,7.75,,,
+254,03/27/2023,bason,unknown,ironman blend,no,12,chemex,35,551,,45,8.0,,,
+255,03/30/2023,bason,unknown,ironman blend,no,12,chemex,35,554,,45,8.25,,,
+256,03/30/2023,bason,dark,guatemalan huehuetenango,no,5,aeropresss,22,241,,0,8.25,,,
+257,04/05/2023,bason,medium,Papua New Guinea,no,12,chemex,35,553,,45,8.5,,,
+258,04/06/2023,bason,medium,Papau New Guinea,no,20,chemex,35,559,n/a,45,8.75,Wilfa,7,4
