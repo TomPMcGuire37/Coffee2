@@ -347,4 +347,77 @@
 345,10/10/2023,Bason,Medium,Papua New Guinea,yes,28,MoccaMaster,37,628,,0,8.0,Wilfa,4.0,28
 346,10/11/2023,Bason,Medium,Papua New Guinea,yes,28,MoccaMaster,42,714,,0,8.0,Wilfa,5.0,04
 347,10/12/2023,Bason,Medium,Papua New Guinea,yes,28,MoccaMaster,37,628,,0,8.0,Wilfa,4.0,30
-348,10/13/2023,Bason,Medium,Papua New Guinea,yes,28,MoccaMaster,42,656,n/a,0,8.25,Wilfa,4,37
+348,10/13/2023,Bason,Medium,Papua New Guinea,yes,28,MoccaMaster,42,656,,0,8.25,Wilfa,4.0,37
+349,10/14/2023,Bason,Medium,Papua New Guinea,no,28,MoccaMaster,40,622,,0,8.5,Wilfa,4.0,21
+350,10/14/2023,Bason,Medium,Papua New Guinea,no,26,Chemex,30,502,,45,8.25,Wilfa,5.0,00
+351,10/15/2023,Bason,Medium,Papua New Guinea,yes,28,MoccaMaster,40,601,,0,8.25,Wilfa,3.0,53
+352,10/16/2023,Bason,Medium,Papua New Guinea,yes,28,MoccaMaster,40,609,,0,8.5,Wilfa,4.0,18
+353,10/17/2023,Bason,Medium,Papua New Guinea,yes,28,MoccaMaster,40,603,,0,8.75,Wilfa,4.0,08
+354,10/18/2023,Bason,Medium,Papua New Guinea,yes,28,MoccaMaster,40,600,,0,8.5,Wilfa,4.0,27
+355,10/20/2023,King's Coast Coffee Co,Medium,Autumn Tide,yes,28,MoccaMaster,40,601,,0,8.5,Wilfa,4.0,10
+356,10/21/2023,King's Coast Coffee Co,Medium,Autumn Tide,yes,28,MoccaMaster,40,607,,0,8.5,Wilfa,4.0,11
+357,10/22/2023,King's Coast Coffee Co,Medium,Autumn Tide,yes,28,MoccaMaster,40,601,,0,8.25,Wilfa,4.0,07
+358,10/23/2023,King's Coast Coffee Co,Medium,Autumn Tide,yes,28,MoccaMaster,40,607,,0,8.25,Wilfa,4.0,25
+359,10/24/2023,King's Coast Coffee Co,Medium,Autumn Tide,no,28,MoccaMaster,40,601,,0,8.0,Wilfa,4.0,23
+360,10/24/2023,King's Coast Coffee Co,Medium,Autumn Tide,no,25,Chemex,30,501,,45,8.5,Wilfa,5.0,0
+361,10/25/2023,King's Coast Coffee Co,Medium,Autumn Tide,yes,28,MoccaMaster,40,602,,0,8.25,Wilfa,4.0,09
+362,10/26/2023,King's Coast Coffee Co,Medium,Autumn Tide,yes,28,MoccaMaster,40,602,,0,8.5,Wilfa,4.0,16
+363,10/27/2023,King's Coast Coffee Co,Medium,Khanquer,yes,28,MoccaMaster,40,607,,0,8.5,Wilfa,4.0,24
+364,10/28/2023,King's Coast Coffee Co,Medium,Khanquer,yes,28,MoccaMaster,40,601,,0,8.5,Wilfa,4.0,05
+365,10/28/2023,King's Coast Coffee Co,Medium,Khanquer,no,25,Chemex,30,502,,45,8.75,Wilfa,4.0,20
+366,10/30/2023,King's Coast Coffee CO,Medium,Khanquer,yes,25,MoccaMaster,40,600,,0,8.75,Wilfa,4.0,09
+367,10/31/2023,King's Coast Coffee Co,Medium,Khanquer,yes,26,MoccaMaster,40,602,,0,9.0,Wilfa,4.0,6
+368,11/01/2023,King's Coast Coffee Co,Medium,Khanquer,yes,26,MoccaMaster,43,623,,0,7.75,Wilfa,4.0,19
+369,11/02/2023,King's Coast Coffee Co,Medium,Khanquer,yes,25,MoccaMaster,40,600,,0,8.5,Wilfa,4.0,01
+370,11/03/2023,King's Coast Coffee Co,Medium,Khanquer,yes,25,MoccaMaster,42,601,,0,8.75,Wilfa,4.0,35
+371,11/06/2023,King's Coast Coffee Co,Medium,Lamplighter,yes,25,MoccaMaster,40,601,,0,8.0,Wilfa,4.0,21
+372,11/07/2023,King's Coast Coffee Co,Medium,Lamplighter,yes,25,MoccaMaster,40,601,,0,8.0,Wilfa,4.0,20
+373,11/08/2023,King's Coast Coffee Co,Medium,Lamplighter,yes,25,MoccaMaster,40,604,,0,7.5,Wilfa,4.0,21
+374,11/09/2023,King's Coast coffee Co,Medium,Lamplighter,yes,25,MoccaMaster,40,602,,0,7.5,Wilfa,4.0,36
+375,11/10/2023,King's Coast Coffee Co,Medium,Lamplighter,yes,26,MoccaMaster,40,605,,0,8.25,Wilfa,4.0,20
+376,11/11/2023,King's Coast Coffee Co,Medium,Lamplighter,yes,27,MoccaMaster,40,605,,0,7.75,Wilfa,4.0,32
+377,11/12/2023,King's Coast Coffee Co,Medium,Lamplighter,yes,27,MoccaMaster,40,601,,0,8.0,Wilfa,4.0,31
+378,11/13/2023,King's Coast Coffee Co,Medium,Lamplighter,yes,27,MoccaMaster,40,602,,0,8.25,Wilfa,4.0,27
+379,11/15/2023,Bason,Medium, Ethiopian Yirgacheffe,yes,26,MoccaMaster,40,602,,0,9.0,Wilfa,4.0,22
+380,11/16/2023,Bason,Medium, Ethiopian Yirgacheffe,yes,26,MoccaMaster,40,600,,0,9.0,Wilfa,4.0,22
+381,11/17/2023,Bason,Medium, Ethiopian Yirgacheffe,yes,26,MoccaMaster,40,603,,0,8.5,Wilfa,4.0,10
+382,11/18/2023,Bason,Medium, Ethiopian Yirgacheffe,yes,26,MoccaMaster,40,605,,0,8.75,Wilfa,4.0,25
+383,11/19/2023,Bason,Medium, Ethiopian Yirgacheffe,no,25,Chemex,30,503,,45,8.5,Wilfa,3.0,30
+384,11/20/2023,Bason,Medium, Ethiopian Yirgacheffe,yes,26,MoccaMaster,40,605,,0,8.75,Wilfa,4.0,31
+385,11/21/2023,Bason,Medium, Ethiopian Yirgacheffe,yes,26,MoccaMaster,40,607,,0,8.75,Wilfa,4.0,21
+386,11/22/2023,Bason,Medium, Ethiopian Yirgacheffe,yes,26,MoccaMaster,40,602,,0,9.0,Wilfa,4.0,32
+387,11/23/2023,Bason,Medium, Ethiopian Yirgacheffe,yes,26,MoccaMaster,40,555,164,0,8.75,Wilfa,4.0,00
+388,11/24/2023,Bason,Medium, Ethiopian Yirgacheffe,yes,26,MoccaMaster,40,505,200,0,8.5,Wilfa,3.0,38
+389,11/25/2023,Bason,Medium, Ethiopian Yirgacheffe,yes,26,MoccaMaster,40,504,199,0,8.75,Wilfa,3.0,53
+390,11/27/2023,Bason,Flavored,Jingle Bell Java,yes,26,MoccaMaster,40,473,227,0,9.0,Wilfa,3.0,23
+391,11/28/2023,Bason,Flavored,Jingle Bell Java,yes,26,MoccaMaster,40,475,231,0,9.0,Wilfa,3.0,28
+392,11/29/2023,Bason,Flavored,Jingle Bell Java,yes,26,MoccaMaster,40,473,225,0,8.75,Wilfa,3.0,42
+393,12/01/2023,Bason,Flavored,Jingle Bell Java,yes,26,MoccaMaster,40,462,242,0,9.0,Wilfa,3.0,24
+394,12/02/2023,Bason,Flavored,Jingle Bell Java,yes,26,MoccaMaster,40,463,240,0,9.0,Wilfa,3.0,28
+395,12/03/2023,Bason,Flavored,Jingle Bell Java,yes,26,MoccaMaster,31,301,201,0,9.25,Wilfa,2.0,22
+396,12/04/2023,Bason,Flavored,Jingle Bell Java,yes,26,MoccaMaster,40,452,255,0,9.25,Wilfa,3.0,14
+397,12/05/2023,Bason,Flavored,Jingle Bell Java,yes,26,MoccaMaster,40,462,239,0,9.25,Wilfa,3.0,35
+398,12/06/2023,Bason,Flavored,Jingle Bell Java,yes,26,MoccaMaster,40,462,239,0,9.0,Wilfa,3.0,20
+399,12/07/2023,Bason,flavored,Jingle Bell Java,yes,26,MoccaMaster,40,464,239,0,9.25,Wilfa,3.0,18
+400,12/08/2023,Bason,Medium Dark,Santa's Wintertime Blend,yes,26,MoccaMaster,40,460,239,0,8.5,Wilfa,3.0,11
+401,12/09/2023,Bason,Medium Dark,Santa's Wintertime Blend,yes,26,MoccaMaster,30,303,198,0,8.75,Wilfa,2.0,12
+402,12/10/2023,Bason,Medium Dark,Santa's Wintertime Blend,yes,26,MoccaMaster,30,301,199,0,8.75,Wilfa,2.0,18
+403,12/10/2023,Bason,Medium Dark,Santa's Wintertime Blend,no,22,Chemex,30,505,,45,9.0,Wilfa,5.0,24
+404,12/11/2023,Bason,Medium Dark,Santa's Wintertime Blend,yes,22,MoccaMaster,40,490,218,0,8.5,Wilfa,3.0,26
+405,12/12/2023,Bason,Medium Dark,Santa's Wintertime Blend,yes,24,MoccaMaster,40,454,255,0,8.75,Wilfa,3.0,15
+406,12/13/2023,Bason,Medium Dark,Santa's Wintertime Blend,yes,24,MoccaMaster,40,451,259,0,8.75,Wilfa,3.0,20
+407,12/14/2023,Bason,Medium Dark,Santa's Wintertime Blend,yes,24,MoccaMaster,30,327,170,0,8.5,Wilfa,3.0,01
+408,12/15/2023,Bason,Medium Dark,Santa's Wintertime Blend,yes,24,MoccaMaster,40,451,251,0,8.25,Wilfa,4.0,14
+409,12/17/2023,Bason,Medium Dark,Santa's Wintertime Blend,yes,22,Chemex,30,305,209,45,8.5,Wilfa,4.0,17
+410,12/18/2023,Bason,Medium Dark,Santa's Wintertime Blend,no,24,MoccaMaster,30,513,,0,8.0,Wilfa,5.0,00
+411,12/20/2023,Bason,Flavored,Jingle Bell Java,no,24,MoccaMaster,40,702,,0,8.75,Wilfa,5.0,01
+412,12/21/2023,Bason,Flavored,Jingle Bell Java,no,24,MoccaMaster,40,706,,0,8.75,Wilfa,4.0,57
+413,12/22/2023,Bason,Flavored,Jingle Bell Java,yes,24,MoccaMaster,40,467,248,0,8.5,Wilfa,3.0,19
+414,12/23/2023,Bason,Flavored,Jingle Bell Java,yes,24,MoccaMaster,40,450,247,0,8.5,Wilfa,3.0,12
+415,12/24/2023,Bason,Flavored,Jingle Bell Java,yes,24,MoccaMaster,40,457,237,0,8.0,Wilfa,3.0,26
+416,12/25/2023,Bason,Flavored,Jingle Bell Java,yes,24,MoccaMaster,40,457,247,0,8.25,Wilfa,3.0,46
+417,12/26/2023,Bason,Flavored,Jingle Bell Java,yes,24,MoccaMaster,40,451,254,0,8.25,Wilfa,3.0,22
+418,12/26/2023,Atlas,Light,Rwanda Inzovu,no,20,Chemex,30,500,,45,8.5,Wilfa,5.0,24
+419,12/27/2023,Atlas,Light,Rwanda Inzovu,no,24,MoccaMaster,40,700,,0,8.0,Wilfa,5.0,03
+420,12/29/2023,Atlas,Light,Rwanda Inzovu,no,25,MoccaMaster,40,715,,0,8.25,Wilfa,5.0,09
+421,12/31/2023,Trader Joe's,Light,Brazil Cachoeira Da Gramn,no,24,MoccaMaster,40,703,n/a,0,8.0,Wilfa,5,03
