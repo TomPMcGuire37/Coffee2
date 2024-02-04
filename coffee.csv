@@ -105,7 +105,7 @@
 103,09/12/2022,bason,medium,Ethiopian Yirgacheffe,yes,6,aeropress,20,205,,0.0,7.25,,,
 104,09/14/2022,bason,medium,Ethiopian Yirgacheffe,yes,10,chemex,31,514,n/A,50.0,7.75,,,
 105,09/13/2022,bason,medium,Ethiopian Yirgacheffe,no,10,chemex,30,520,,65.0,7.0,,,
-106,09/15/2022,bason,medium,Ethiopian Yirgacheffe	,yes,6,aeropress,24,208,,0.0,7.75,,,
+106,09/15/2022,bason,medium,Ethiopian Yirgacheffe,yes,6,aeropress,24,208,,0.0,7.75,,,
 107,09/21/2022,Trader Joe's,medium / light,El Salvador Pacamara / Nicaragua Maragogype,yes,6,aeropress,22,204,,0.0,7.0,,,
 108,09/21/2022,Bones Coffee Co,Medium,Sinn-o-bun,no,10,chemex,30,504,,45.0,7.0,,,
 109,09/22/2022,trader joe's,medium / light,El Salvador Pacamara / Nicaragua Maragogype,no,10,chemex,30,550,,45.0,8.25,,,
@@ -242,7 +242,7 @@
 240,02/28/2023,black river roasters,dark,dark star,no,11,chemex,35,551,,50.0,7.25,,,
 241,03/01/2023,black river roasters,dark,dark star,no,11,chemex,40,602,,45.0,7.0,,,
 242,03/01/2023,trader joes,medium,zamora ecuador,no,11,chemex,11,551,,45.0,8.75,,,
-243,03/01/2023,trader joes,medium,zamora eceador,no,11,chemex,35,554,,45.0,7.5,,,
+243,03/01/2023,trader joes,medium,zamora ecuador,no,11,chemex,35,554,,45.0,7.5,,,
 244,03/07/2023,trader joes,medium,zamora ecuador,no,6,aeropress,22,241,,0.0,8.0,,,
 245,03/13/2023,bason,dark,guatemalan huehuetenango,no,11,chemex,35,554,,45.0,8.0,,,
 246,03/14/2023,bason,dark,guatemalan huehuetenango,no,6,aeropress,22,237,,0.0,7.75,,,
@@ -257,18 +257,18 @@
 255,03/30/2023,bason,unknown,ironman blend,no,12,chemex,35,554,,45.0,8.25,,,
 256,03/30/2023,bason,dark,guatemalan huehuetenango,no,5,aeropresss,22,241,,0.0,8.25,,,
 257,04/05/2023,bason,medium,Papua New Guinea,no,12,chemex,35,553,,45.0,8.5,,,
-258,04/06/2023,bason,medium,Papau New Guinea,no,20,chemex,35,559,,45.0,8.75,Wilfa,7.0,4.0
-259,04/06/2023,bason,medium,Papau New Guinea,yes,20,Aeropress,22,244,,0.0,8.5,Wilfa,3.0,3.0
-260,04/07/2023,bason,medium,Papau New Guinea,yes,22,chemex,35,553,,47.0,8.5,Wilfa,5.0,23.0
-261,04/07/2023,bason,medium,Papau New Guinea,yes,18,aeropress,22,234,,0.0,8.5,Wilfa,2.0,59.0
-262,04/09/2023,bason,medium,Paapau New Guinea,yes,24,chemex,35,554,,45.0,8.5,Wilfa,5.0,19.0
-263,04/10/2023,bason,medium,Papau New Guinea,yes,24,chemex,36,551,,45.0,8.5,Wilfa,5.0,34.0
-264,04/11/2023,bason,medium,Papau New Guinea,yes,26,chemex,35,557,,45.0,8.75,Wilfa,6.0,26.0
+258,04/06/2023,bason,medium,Papua New Guinea,no,20,chemex,35,559,,45.0,8.75,Wilfa,7.0,4.0
+259,04/06/2023,bason,medium,Papua New Guinea,yes,20,Aeropress,22,244,,0.0,8.5,Wilfa,3.0,3.0
+260,04/07/2023,bason,medium,Papua New Guinea,yes,22,chemex,35,553,,47.0,8.5,Wilfa,5.0,23.0
+261,04/07/2023,bason,medium,Papua New Guinea,yes,18,aeropress,22,234,,0.0,8.5,Wilfa,2.0,59.0
+262,04/09/2023,bason,medium,Papua New Guinea,yes,24,chemex,35,554,,45.0,8.5,Wilfa,5.0,19.0
+263,04/10/2023,bason,medium,Papua New Guinea,yes,24,chemex,36,551,,45.0,8.5,Wilfa,5.0,34.0
+264,04/11/2023,bason,medium,Papua New Guinea,yes,26,chemex,35,557,,45.0,8.75,Wilfa,6.0,26.0
 265,04/12/2023,bason,medium,Papua New Guinea,no,32,MoccaMaster,40,719,,0.0,8.5,Wilfa,,n/A
-266,04/13/2023,bason,medium,Papau New Guinea,no,32,MoccaMaster,42,756,,0.0,8.25,Wilfa,,
-267,04/14/2023,bason,medium,Papau New Guinea,no,30,MoccaMaster,42,726,,0.0,8.25,Wilfa,6.0,20
-268,04/15/2023,bason,medium,Papau New Guinea,no,29,MoccaMaster,35,556,,0.0,7.75,Wilfa,5.0,53
-269,04/16/2023,Bason,Medium,Papau New Guinea,no,32,MoccaMaster,42,726,,0.0,8.5,Wilfa,5.0,29
+266,04/13/2023,bason,medium,Papua New Guinea,no,32,MoccaMaster,42,756,,0.0,8.25,Wilfa,,
+267,04/14/2023,bason,medium,Papua New Guinea,no,30,MoccaMaster,42,726,,0.0,8.25,Wilfa,6.0,20
+268,04/15/2023,bason,medium,Papua New Guinea,no,29,MoccaMaster,35,556,,0.0,7.75,Wilfa,5.0,53
+269,04/16/2023,Bason,Medium,Papua New Guinea,no,32,MoccaMaster,42,726,,0.0,8.5,Wilfa,5.0,29
 270,04/17/2023,Lardera,light,geisha washed,no,32,MoccaMaster,42,676,,0.0,8.5,Wilfa,4.0,47
 271,04/18/2023,Lardera,light,castillo washed,no,32,MoccaMaster,40,702,,0.0,8.25,Wilfa,5.0,26
 272,04/19/2023,Lardera,light,geisha honey,no,31,MoccaMaster,42,727,,0.0,8.75,Wilfa,6.0,46
@@ -312,8 +312,8 @@
 310,06/06/2023,Homestead Coffee Roasters,medium light,Guatemalan Bourbon,yes,19,Aeropress,22,220,,0.0,8.0,Wilfa,3.0,03
 311,06/07/2023,homestead coffee roasters,medium light,Guatemalan Bourbon,yes,30,MoccaMaster,40,732,,0.0,8.25,Wilfa,5.0,05
 312,06/10/2023,homestead coffee roasters,medium,Guatemalan Bourbon,no,27,chemex,30,503,,45.0,7.75,Wilfa,3.0,36
-313,06/11/2023,Homestead Coffee Roasters,Medium,Guatamalan Bourbon,yes,30,MoccaMaster,41,718,,0.0,8.0,Wilfa,4.0,56
-314,06/13/2023,Homestead Coffee Roasters,Medium,Guatamalan Bourbon,yes,30,MoccaMaster,43,745,,0.0,8.0,Wilfa,5.0,0
+313,06/11/2023,Homestead Coffee Roasters,Medium,Guatemalan Bourbon,yes,30,MoccaMaster,41,718,,0.0,8.0,Wilfa,4.0,56
+314,06/13/2023,Homestead Coffee Roasters,Medium,Guatemalan Bourbon,yes,30,MoccaMaster,43,745,,0.0,8.0,Wilfa,5.0,0
 315,06/14/2023,Bason,Medium,Brazil,no,18,Aeropress,22,220,,0.0,8.25,wilfa,3.0,03
 316,06/14/2023,Bason,Medium,Brazil,yes,28,MoccaMaster,30,575,,0.0,8.75,Wilfa,4.0,59
 317,06/16/2023,Bason,Medium,Brazil,no,17,Aeropress,22,215,,0.0,8.0,Wilfa,3.0,12
@@ -331,7 +331,7 @@
 329,08/02/2023,Bason,Medium,Costa Rican,yes,27,MoccaMaster,41,702,,0.0,8.0,Wilfa,4.0,56
 330,08/03/2023,Bason,Medium,Costa Rican,yes,29,MoccaMaster,42,702,,0.0,8.0,Wilfa,5.0,0
 331,08/29/2023,STanding Stone Coffee Co,Medium,Adventure Blend,yes,28,MoccaMaster,42,702,,0.0,8.5,Wilfa,5.0,0
-332,09/01/2023,Standing Stone Coffee Co,Medium,Adenture Blend,no,28,MoccaMaster,44,719,,0.0,7.5,Wilfa,5.0,23
+332,09/01/2023,Standing Stone Coffee Co,Medium,Adventure Blend,no,28,MoccaMaster,44,719,,0.0,7.5,Wilfa,5.0,23
 333,09/01/2023,Standing Stone Coffee Co,Medium,Adventure Blend,yes,17,Aeropress,22,219,,0.0,8.0,Wilfa,3.0,17
 334,09/02/2023,Standing Stone Coffee Co,Medium,Adventure,yes,28,MoccaMaster,42,709,,0.0,8.0,Wilfa,5.0,39
 335,09/03/2023,Standing Stone Coffee Co,Medium,Adventure Blend,yes,28,Moccamaster,42,719,,0.0,7.75,Wilfa,4.0,56
@@ -378,17 +378,17 @@
 376,11/11/2023,King's Coast Coffee Co,Medium,Lamplighter,yes,27,MoccaMaster,40,605,,0.0,7.75,Wilfa,4.0,32
 377,11/12/2023,King's Coast Coffee Co,Medium,Lamplighter,yes,27,MoccaMaster,40,601,,0.0,8.0,Wilfa,4.0,31
 378,11/13/2023,King's Coast Coffee Co,Medium,Lamplighter,yes,27,MoccaMaster,40,602,,0.0,8.25,Wilfa,4.0,27
-379,11/15/2023,Bason,Medium, Ethiopian Yirgacheffe,yes,26,MoccaMaster,40,602,,0.0,9.0,Wilfa,4.0,22
-380,11/16/2023,Bason,Medium, Ethiopian Yirgacheffe,yes,26,MoccaMaster,40,600,,0.0,9.0,Wilfa,4.0,22
-381,11/17/2023,Bason,Medium, Ethiopian Yirgacheffe,yes,26,MoccaMaster,40,603,,0.0,8.5,Wilfa,4.0,10
-382,11/18/2023,Bason,Medium, Ethiopian Yirgacheffe,yes,26,MoccaMaster,40,605,,0.0,8.75,Wilfa,4.0,25
-383,11/19/2023,Bason,Medium, Ethiopian Yirgacheffe,no,25,Chemex,30,503,,45.0,8.5,Wilfa,3.0,30
-384,11/20/2023,Bason,Medium, Ethiopian Yirgacheffe,yes,26,MoccaMaster,40,605,,0.0,8.75,Wilfa,4.0,31
-385,11/21/2023,Bason,Medium, Ethiopian Yirgacheffe,yes,26,MoccaMaster,40,607,,0.0,8.75,Wilfa,4.0,21
-386,11/22/2023,Bason,Medium, Ethiopian Yirgacheffe,yes,26,MoccaMaster,40,602,,0.0,9.0,Wilfa,4.0,32
-387,11/23/2023,Bason,Medium, Ethiopian Yirgacheffe,yes,26,MoccaMaster,40,555,164,0.0,8.75,Wilfa,4.0,00
-388,11/24/2023,Bason,Medium, Ethiopian Yirgacheffe,yes,26,MoccaMaster,40,505,200,0.0,8.5,Wilfa,3.0,38
-389,11/25/2023,Bason,Medium, Ethiopian Yirgacheffe,yes,26,MoccaMaster,40,504,199,0.0,8.75,Wilfa,3.0,53
+379,11/15/2023,Bason,Medium,Ethiopian Yirgacheffe,yes,26,MoccaMaster,40,602,,0.0,9.0,Wilfa,4.0,22
+380,11/16/2023,Bason,Medium,Ethiopian Yirgacheffe,yes,26,MoccaMaster,40,600,,0.0,9.0,Wilfa,4.0,22
+381,11/17/2023,Bason,Medium,Ethiopian Yirgacheffe,yes,26,MoccaMaster,40,603,,0.0,8.5,Wilfa,4.0,10
+382,11/18/2023,Bason,Medium,Ethiopian Yirgacheffe,yes,26,MoccaMaster,40,605,,0.0,8.75,Wilfa,4.0,25
+383,11/19/2023,Bason,Medium,Ethiopian Yirgacheffe,no,25,Chemex,30,503,,45.0,8.5,Wilfa,3.0,30
+384,11/20/2023,Bason,Medium,Ethiopian Yirgacheffe,yes,26,MoccaMaster,40,605,,0.0,8.75,Wilfa,4.0,31
+385,11/21/2023,Bason,Medium,Ethiopian Yirgacheffe,yes,26,MoccaMaster,40,607,,0.0,8.75,Wilfa,4.0,21
+386,11/22/2023,Bason,Medium,Ethiopian Yirgacheffe,yes,26,MoccaMaster,40,602,,0.0,9.0,Wilfa,4.0,32
+387,11/23/2023,Bason,Medium,Ethiopian Yirgacheffe,yes,26,MoccaMaster,40,555,164,0.0,8.75,Wilfa,4.0,00
+388,11/24/2023,Bason,Medium,Ethiopian Yirgacheffe,yes,26,MoccaMaster,40,505,200,0.0,8.5,Wilfa,3.0,38
+389,11/25/2023,Bason,Medium,Ethiopian Yirgacheffe,yes,26,MoccaMaster,40,504,199,0.0,8.75,Wilfa,3.0,53
 390,11/27/2023,Bason,Flavored,Jingle Bell Java,yes,26,MoccaMaster,40,473,227,0.0,9.0,Wilfa,3.0,23
 391,11/28/2023,Bason,Flavored,Jingle Bell Java,yes,26,MoccaMaster,40,475,231,0.0,9.0,Wilfa,3.0,28
 392,11/29/2023,Bason,Flavored,Jingle Bell Java,yes,26,MoccaMaster,40,473,225,0.0,8.75,Wilfa,3.0,42
